@@ -27,3 +27,4 @@ while principal > 0:
 
 print('Total paid', total_paid)
 print('Months', month)
+print('měsíc: ' f'{month} celkem zaplaceno: {total_paid} zbývá: {principal}')
